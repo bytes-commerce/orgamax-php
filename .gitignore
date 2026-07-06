@@ -7,3 +7,5 @@
 /.rector-cache/
 /ecs-cache/
 .phpunit-watcher.yml
+./docs
+.claude-flow

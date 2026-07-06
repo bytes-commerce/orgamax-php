@@ -34,6 +34,7 @@
     },
     "require-dev": {
         "ergebnis/phpstan-rules": "^2.0",
+        "nyholm/psr7": "^1.8",
         "phpstan/extension-installer": "^1.4",
         "phpstan/phpstan": "^1.12",
         "phpstan/phpstan-deprecation-rules": "^1.2",

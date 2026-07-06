@@ -13,8 +13,8 @@
     displayDetailsOnTestsThatTriggerNotices="true">
     <testsuites>
         <testsuite name="BytesCommerce\Orgamax">
-            <directory>tests/Unit</directory>
-            <exclude>tests/Unit/Fixtures</exclude>
+            <directory>tests</directory>
+            <exclude>tests/Fixtures</exclude>
         </testsuite>
     </testsuites>
     <source>
